@@ -1,9 +1,10 @@
 # cloud-itonami-iso3166-dza
 
-**DZA**: People's Democratic Republic of Algeria.
+**`:implemented`** for **DZA**. Flagship `dz-entity-missing`, tax `nif-unverified`.
 
-- BOMOP / public procurement portal
-- CNRC + NIF
+```
+clojure -M:dev:test
+```
 
 AGPL-3.0-or-later.
 
